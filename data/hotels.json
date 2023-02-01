@@ -2,11 +2,71 @@
     {
         "id" : 1,
         "location": "Cox's Bazar",
-        "name" : "ShonarGaon"
+        "name" : "Hotel Sea Crown",
+        "title": "Situated on the beachfront and offering a 24-hour front desk, Hotel Sea Crown is located just 1.5 km from the famous Sugandha Beach. Free WiFi access is available.",
+        "description": "Each air-conditioned room here will provide you with a seating area and work desk. Featuring a shower, private bathroom comes with free toiletries. At Hotel Sea Crown you will find a garden. Other facilities offered at the property include a shared lounge, a tour desk and luggage storage. The property offers free parking.The property is located just 3 km from the scenic Laboni Beach and 4.1 km from Buddhist Temple and the popular Cox's Bazar. The Cox's Bazar Airport and Cox's Bazar Bus Station are located within 4.8 km.",
+        "two_Beds": true,
+        "single_Bed": true,
+        "wifi": true,
+        "gym":true,
+        "air_condition":true,
+        "cost": "$34/night",
+        "rating": 4.5
     },
     {
         "id" : 2,
         "location": "Cox's Bazar",
-        "name" : "Blue Raddison"
-    }
+        "name" : "Grace Cox Smart Hotel",
+        "title": "You're eligible for a Genius discount at Grace Cox Smart Hotel! To save at this property, all you have to do is sign in.",
+        "description": "Grace Cox Smart Hotel is a 4-star property set in Cox's Bazar. With free WiFi, this 4-star hotel offers a kids' club and free shuttle service. The accommodation offers room service, a concierge service and organising tours for guests. At the hotel, the rooms include a desk. All rooms are equipped with a safety deposit box, while some rooms come with a balcony and others also have sea views. The units will provide guests with a fridge. A buffet breakfast is available every morning at Grace Cox Smart Hotel.",
+        "two_Beds": true,
+        "single_Bed": true,
+        "wifi": true,
+        "gym":true,
+        "air_condition": true,
+        "cost": "$34/night",
+        "rating": 4.5
+    },
+    {
+        "id" : 3,
+        "location": "Cox's Bazar",
+        "name" : "Long Beach Hotel",
+        "title": "Offering an indoor pool, a fitness centre and a spa and wellness centre, Long Beach Hotel is located 3.3 km from the Cox's Bazar Airport and Local Bus Station. Free wired internet is available in the rooms of the property.",
+        "description": "Each air-conditioned room here will provide you with a satellite TV, seating area and a balcony. There is also a minibar. Featuring a shower, private bathroom also comes with bathrobes and free toiletries.At Long Beach Hotel you will find a 24-hour front desk, BBQ facilities and garden. Other facilities offered at the property include meeting facilities, a shared lounge and a ticket service. The property offers free parking.",
+        "two_Beds": true,
+        "single_Bed": true,
+        "wifi": true,
+        "gym":true,
+        "air_condition":true,
+        "cost": "$34/night",
+        "rating": 4.5
+    },
+    {
+        "id" : 4,
+        "location": "Cox's Bazar",
+        "name" : "Sea Pearl Beach Resort & Spa Cox's Bazar",
+        "title": "Offering an indoor pool, a fitness centre and a spa and wellness centre, Long Beach Hotel is located 3.3 km from the Cox's Bazar Airport and Local Bus Station. Free wired internet is available in the rooms of the property.",
+        "description": "Facing the beachfront, Sea Pearl Beach Resort & Spa Cox's Bazar offers 5-star accommodation in Cox's Bazar and features an outdoor swimming pool, fitness centre and garden. This 5-star hotel offers a 24-hour front desk and an ATM. The accommodation offers free shuttle service, room service and currency exchange for guests.",
+        "two_Beds": true,
+        "single_Bed": true,
+        "wifi": true,
+        "gym":true,
+        "air_condition":true,
+        "cost": "$34/night",
+        "rating": 4.5
+    },
+    {
+        "id" : 5,
+        "location": "Cox's Bazar",
+        "name" : "Shahjadi Resort",
+        "title": "Shahjadi Resort is situated in Cox's Bazar, 1.4 km from Cox's Bazar Sea Beach. The accommodation features room service and a 24-hour front desk for guests.",
+        "description": "The nearest airport is Cox's Bazar Airport, 5 km from the hotel. Shahjadi Resort has been welcoming Booking.com guests since 17 Sept 2020. Distance in property description is calculated using © OpenStreetMap",
+        "two_Beds": true,
+        "single_Bed": true,
+        "wifi": true,
+        "gym":true,
+        "air_condition":true,
+        "cost": "$34/night",
+        "rating": 4.5
+    },
 ]
