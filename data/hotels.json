@@ -1,0 +1,12 @@
+[
+    {
+        "id" : 1,
+        "location": "Cox's Bazar",
+        "name" : "ShonarGaon"
+    },
+    {
+        "id" : 2,
+        "location": "Cox's Bazar",
+        "name" : "Blue Raddison"
+    }
+]
