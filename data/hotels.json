@@ -12,7 +12,7 @@
     "gym": true,
     "air_condition": true,
     "cost": "$34/night",
-    "rating": 4.5
+    "rating": 5
   },
   {
     "id": 2,
@@ -26,8 +26,8 @@
     "wifi": true,
     "gym": true,
     "air_condition": true,
-    "cost": "$34/night",
-    "rating": 4.5
+    "cost": "$20/night",
+    "rating": 3.5
   },
   {
     "id": 3,
@@ -41,8 +41,8 @@
     "wifi": true,
     "gym": true,
     "air_condition": true,
-    "cost": "$34/night",
-    "rating": 4.5
+    "cost": "$25/night",
+    "rating": 3.5
   },
   {
     "id": 4,
@@ -56,8 +56,8 @@
     "wifi": true,
     "gym": true,
     "air_condition": true,
-    "cost": "$34/night",
-    "rating": 4.5
+    "cost": "$55/night",
+    "rating": 4
   },
   {
     "id": 5,
@@ -71,8 +71,8 @@
     "wifi": true,
     "gym": true,
     "air_condition": true,
-    "cost": "$34/night",
-    "rating": 4.5
+    "cost": "$25/night",
+    "rating": 3
   },
   {
     "id": 6,
@@ -86,8 +86,8 @@
     "wifi": true,
     "gym": true,
     "air_condition": true,
-    "cost": "$34/night",
-    "rating": 4.5
+    "cost": "$30/night",
+    "rating": 5
   },
   {
     "id": 7,
@@ -101,8 +101,8 @@
     "wifi": true,
     "gym": true,
     "air_condition": true,
-    "cost": "$34/night",
-    "rating": 4.5
+    "cost": "$25/night",
+    "rating": 3.5
   },
   {
     "id": 8,
@@ -116,8 +116,8 @@
     "wifi": true,
     "gym": true,
     "air_condition": true,
-    "cost": "$34/night",
-    "rating": 4.5
+    "cost": "$45/night",
+    "rating": 3.5
   },
   {
     "id": 9,
@@ -131,7 +131,7 @@
     "wifi": true,
     "gym": true,
     "air_condition": true,
-    "cost": "$34/night",
+    "cost": "$50/night",
     "rating": 4.5
   },
   {
@@ -146,8 +146,8 @@
     "wifi": true,
     "gym": true,
     "air_condition": true,
-    "cost": "$34/night",
-    "rating": 4.5
+    "cost": "$20/night",
+    "rating": 4
   },
   {
     "id": 11,
@@ -159,10 +159,10 @@
     "two_Beds": true,
     "single_Bed": true,
     "wifi": true,
-    "gym": true,
+    "gym": false,
     "air_condition": true,
-    "cost": "$34/night",
-    "rating": 4.5
+    "cost": "$22/night",
+    "rating": 5
   },
   {
     "id": 12,
@@ -174,10 +174,10 @@
     "two_Beds": true,
     "single_Bed": true,
     "wifi": true,
-    "gym": true,
+    "gym": false,
     "air_condition": true,
-    "cost": "$34/night",
-    "rating": 4.5
+    "cost": "$32/night",
+    "rating": 4
   },
   {
     "id": 13,
@@ -189,9 +189,9 @@
     "two_Beds": true,
     "single_Bed": true,
     "wifi": true,
-    "gym": true,
+    "gym": false,
     "air_condition": true,
-    "cost": "$34/night",
+    "cost": "$29/night",
     "rating": 4.5
   },
   {
@@ -204,10 +204,10 @@
     "two_Beds": true,
     "single_Bed": true,
     "wifi": true,
-    "gym": true,
+    "gym": false,
     "air_condition": true,
-    "cost": "$34/night",
-    "rating": 4.5
+    "cost": "$44/night",
+    "rating": 3.5
   },
   {
     "id": 15,
@@ -219,9 +219,9 @@
     "two_Beds": true,
     "single_Bed": true,
     "wifi": true,
-    "gym": true,
+    "gym": false,
     "air_condition": true,
-    "cost": "$34/night",
-    "rating": 4.5
+    "cost": "$21/night",
+    "rating": 2.5
   }
 ]
