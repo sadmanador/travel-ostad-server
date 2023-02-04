@@ -2,6 +2,7 @@
   {
     "id": 1,
     "location": "Cox's Bazar",
+    "location_id": 1,
     "name": "Hotel Sea Crown",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/120397144.jpg?k=ca74ce65d75e5c0abe4a14b79923353a5920164cefb9160580b06868c236c4cc&o=&hp=1",
     "title": "Situated on the beachfront and offering a 24-hour front desk, Hotel Sea Crown is located just 1.5 km from the famous Sugandha Beach. Free WiFi access is available.",
@@ -17,6 +18,7 @@
   {
     "id": 2,
     "location": "Cox's Bazar",
+    "location_id": 1,
     "name": "Grace Cox Smart Hotel",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/197223673.jpg?k=f6d3a55cd5e367cda84a8d51dc42a61b20f7d8c0a77f25cfdf606237c41fbe71&o=&hp=1",
     "title": "You're eligible for a Genius discount at Grace Cox Smart Hotel! To save at this property, all you have to do is sign in.",
@@ -32,6 +34,7 @@
   {
     "id": 3,
     "location": "Cox's Bazar",
+    "location_id": 1,
     "name": "Long Beach Hotel",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/283183777.jpg?k=899b1542446c88268f790cf9968ddeffe42a7b24c7b228069de09413d5275822&o=&hp=1",
     "title": "Offering an indoor pool, a fitness centre and a spa and wellness centre, Long Beach Hotel is located 3.3 km from the Cox's Bazar Airport and Local Bus Station. Free wired internet is available in the rooms of the property.",
@@ -47,6 +50,7 @@
   {
     "id": 4,
     "location": "Cox's Bazar",
+    "location_id": 1,
     "name": "Sea Pearl Beach Resort & Spa Cox's Bazar",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345053324.jpg?k=be9e4c63abaa59ca9dae9284911bfc36f3d23188a0e6e25cdba77d77925e130d&o=&hp=1",
     "title": "Offering an indoor pool, a fitness centre and a spa and wellness centre, Long Beach Hotel is located 3.3 km from the Cox's Bazar Airport and Local Bus Station. Free wired internet is available in the rooms of the property.",
@@ -62,6 +66,7 @@
   {
     "id": 5,
     "location": "Cox's Bazar",
+    "location_id": 1,
     "name": "Shahjadi Resort",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/345053324.jpg?k=be9e4c63abaa59ca9dae9284911bfc36f3d23188a0e6e25cdba77d77925e130d&o=&hp=1",
     "title": "Shahjadi Resort is situated in Cox's Bazar, 1.4 km from Cox's Bazar Sea Beach. The accommodation features room service and a 24-hour front desk for guests.",
@@ -77,6 +82,7 @@
   {
     "id": 6,
     "location": "Sreemangal",
+    "location_id": 2,
     "name": "Green Leaf Guest House",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/188621248.jpg?k=0299e5efb3cb9aa5c24868c5512c085161f07cfae855f6889f3a2f73d9a16c95&o=&hp=1",
     "title": "Set in Sreemangal, Green Leaf Guest House offers accommodation with free WiFi and free private parking.",
@@ -92,6 +98,7 @@
   {
     "id": 7,
     "location": "Sreemangal",
+    "location_id": 2,
     "name": "Chader bari eco resort",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/425035575.jpg?k=be84ab9277a621bf033c42317007bf8ebee3291bbcfe88b6322dbb5942bf4271&o=&hp=1",
     "title": "Set in Sreemangal, Chader bari eco resort sreemangol has a garden, terrace, restaurant, and free WiFi throughout the property. There is free private parking and the property offers paid airport shuttle service.",
@@ -107,6 +114,7 @@
   {
     "id": 8,
     "location": "Sreemangal",
+    "location_id": 2,
     "name": "Hotel Skypark",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/156533583.jpg?k=d04737bf692cdd1cca10fa670ea119a545c228461d3acb73908bf52356c62277&o=&hp=1",
     "title": "Set in Sreemangal, Hotel Skypark, Sreemangal offers 3-star accommodation with a garden, a shared lounge and a terrace. This 3-star hotel offers a shared kitchen, room service and free WiFi. Free private parking is available and the hotel also offers bike hire for guests who want to explore the surrounding area.",
@@ -122,6 +130,7 @@
   {
     "id": 9,
     "location": "Sreemangal",
+    "location_id": 2,
     "name": "Patrasnana Eco Resort",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/365331494.jpg?k=5774632c0b5c3eb2f839f45fc89c684dda5f6b9fe72decd3cff7d9b51d9e1e0b&o=&hp=1",
     "title": "Located in Sreemangal, Patrasnana Eco Resort, Sreemangal provides 2-star accommodation with access to a garden and a terrace.",
@@ -137,6 +146,7 @@
   {
     "id": 10,
     "location": "Sreemangal",
+    "location_id": 2,
     "name": "HOTEL MOHSIN PLAZA",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/332988091.jpg?k=2e428aaf805dfa5221cf9ecf01b00fc2ff558788b38b007be0b05424776ad265&o=&hp=1",
     "title": "HOTEL MOHSIN PLAZA is a 2-star property located in Sreemangal. With free WiFi, this 2-star hotel offers room service and a 24-hour front desk. Free private parking is available and the hotel also provides car hire for guests who want to explore the surrounding area.",
@@ -152,6 +162,7 @@
   {
     "id": 11,
     "location": "Sundarban",
+    "location_id": 3,
     "name": "Royal Sundarban Wild Resort",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/157897548.jpg?k=f056d75bd44b3d4e190fc3f752ec67d6f4b98998eff237baf7d6026945941d00&o=&hp=1",
     "title": "You're eligible for a Genius discount at Royal Sundarban Wild Resort! To save at this property, all you have to do is sign in.",
@@ -167,6 +178,7 @@
   {
     "id": 12,
     "location": "Sundarban",
+    "location_id": 3,
     "name": "Hotel Sonar Bangla",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/280188723.jpg?k=2c21ec7bac600b72e2cb4ca2712cf8f97dea64befeea1a6d587f979e6c1a209d&o=&hp=1",
     "title": "You're eligible for a Genius discount at Royal Sundarban Wild Resort! To save at this property, all you have to do is sign in.",
@@ -182,6 +194,7 @@
   {
     "id": 13,
     "location": "Sundarban",
+    "location_id": 3,
     "name": "Sundarban Gateway Resort",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/421923425.jpg?k=d4abad18fe2dd95a968ed9149b3d9d6aa6187fc54fcec46dfc6ff7703004d93f&o=&hp=1",
     "title": "Sundarban Gateway Resort by WB Inn offers air-conditioned accommodation in Gosāba. The accommodation features a 24-hour front desk, airport transfers, room service and free WiFi throughout the property.",
@@ -197,6 +210,7 @@
   {
     "id": 14,
     "location": "Sundarban",
+    "location_id": 3,
     "name": "Sundarban Jungle Mahal",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/335599165.jpg?k=928fd6fb64e1a8d7acb300e58e89cbd3eaf39d27f1f69028586cec9d7d5de50b&o=&hp=1",
     "title": "Set in Gosāba, sundarban jungle mahal resort has a garden. Boasting room service, this property also has a restaurant and a sun terrace. Guests can enjoy garden views.",
@@ -212,6 +226,7 @@
   {
     "id": 15,
     "location": "Sundarban",
+    "location_id": 3,
     "name": "Solitary Nook",
     "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/259038836.jpg?k=c73670165f1a62ae2d4ebe6216bfa5d7ce9e3df764b3e46e4aa054f5c078df7e&o=&hp=1",
     "title": "You're eligible for a Genius discount at Solitary Nook! To save at this property, all you have to do is sign in.",
