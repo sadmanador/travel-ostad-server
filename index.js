@@ -1,14 +1,21 @@
 const express = require("express");
+const hotels = require("./data/hotels.json");
+const cors = require("cors");
+const destination = require('./data/location.json')
+
 const app = express();
 const port = process.env.PORT || 5000;
-const cors = require("cors");
-const hotels = require("./data/hotels.json");
 
 app.use(cors());
 
 app.get("/", (req, res) => {
   res.send("Hello world");
 });
+
+app.get("/destination", (req, res) => {
+  res.send(destination);
+});
+
 
 app.get("/hotels", (req, res) => {
   res.send(hotels);

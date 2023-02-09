@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "location": "Sreemangol",
+        "img_url":"https://i.ibb.co/VNTCpDF/Sreemongol.png"
+    },
+    {
+        "id": 2,
+        "location": "Sundorbon",
+        "img_url":"https://i.ibb.co/CQMJkCH/sundorbon.png"
+    },
+    {
+        "id": 3,
+        "location": "Cox's Bazar",
+        "img_url":"https://i.ibb.co/rvH6dp7/Rectangle-1.png"
+    }
+]
