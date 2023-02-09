@@ -1,7 +1,7 @@
 const express = require("express");
 const hotels = require("./data/hotels.json");
 const cors = require("cors");
-const destination = require('./data/location.json')
+const destination = require('./data/destination.json')
 
 const app = express();
 const port = process.env.PORT || 5000;
